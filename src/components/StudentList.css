@@ -1,0 +1,12 @@
+
+tr {
+	background: linear-gradient(to right, transparent 50%, #32cfd2 50%);
+	background-size: 200% 100%;
+	transition: 0.2s ;
+  }
+  
+  tr:hover {
+	background-position: -100%;
+  }
+     
+ 
